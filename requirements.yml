@@ -1,0 +1,2 @@
+- src: git+https://bitbucket.org/ursuad/sample_role_oracle-java
+  version: v1.1.6
